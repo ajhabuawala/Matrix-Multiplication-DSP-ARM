@@ -11,16 +11,16 @@ This is an group assignment for the course 'Embedded System Lab' taught at TU De
 ###### Hardware platform
    * Beagle board
 
-######Profiling tools:
+###### Profiling tools:
    
    * gprof
    * MCProf
 
-######Debuggers
+###### Debuggers
    * Gdb
    * Valgrind (memcheck)
 
-######(Cross) Compilation
+###### (Cross) Compilation
    * gcc
 
 
